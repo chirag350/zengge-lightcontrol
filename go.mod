@@ -1,4 +1,4 @@
-module github.com/vikstrous/zengge-lightcontrol
+module github.com/chirag350/zengge-lightcontrol
 
 go 1.16
 
